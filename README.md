@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there! 👋 I'm John Servil V. Vidal
 
-<!--
-**JohnServilVidal/JohnServilVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am John Servil V. Vidal, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+
+**Bachelor of Science in Information Technology**
+New Era University
+2024 – Present
+
+### 📜 Certifications
+
+- [https://courses.cognitiveclass.ai/certificates/e5e92eeb2fc94cdbb455c9d3936285b8](https://courses.cognitiveclass.ai/certificates/e5e92eeb2fc94cdbb455c9d3936285b8)
+
+### 💻 Skill Sets
+
+**Programming Languages**
+
+- Java
+- JavaScript
+
+**Databases**
+
+- IBM DB2 Cloud
+
+**Tools**
+
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
+
+### 📫 You May Reach Me At
+
+- **Email:** [vidaljohnservil@gmail.com](mailto\:vidaljohnservil@gmail.com)
+
+
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
