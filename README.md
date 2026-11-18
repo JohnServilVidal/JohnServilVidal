@@ -18,7 +18,6 @@ New Era University
 ### 💻 Skill Sets
 
 **Programming Languages**
-- HTML
 - CSS
 - Java
 - JavaScript
