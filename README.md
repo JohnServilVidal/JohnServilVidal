@@ -7,6 +7,7 @@ I am John Servil V. Vidal, with a flair for coding and database management skill
 ### 🎓 Education
 
 **Bachelor of Science in Information Technology**
+
 New Era University
 2024 – Present
 
