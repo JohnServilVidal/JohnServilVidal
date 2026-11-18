@@ -37,6 +37,7 @@ New Era University
 ### 📫 You May Reach Me At
 
 - **Email:** [vidaljohnservil@gmail.com](mailto\:vidaljohnservil@gmail.com)
+- LinkIn  https://www.linkedin.com/in/john-servil-vidal-a16a18450/
 
 
 
